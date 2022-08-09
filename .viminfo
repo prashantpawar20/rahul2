@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :x
-|2,0,1660066599,,"x"
+|2,0,1660068199,,"x"
 :c
 |2,0,1660066593,,"c"
 
@@ -27,24 +27,248 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/dev.html
-|4,48,1,0,1660066599,"~/.git/dev.html"
-'1  2  0  ~/.git/index.html
-|4,49,2,0,1660066563,"~/.git/index.html"
+'0  3  0  ~/index.html
+|4,48,3,0,1660068199,"~/index.html"
+'1  3  0  ~/dev.html
+|4,49,3,0,1660068174,"~/dev.html"
+'2  2  0  ~/index.html
+|4,50,2,0,1660068142,"~/index.html"
+'3  2  0  ~/index.html
+|4,51,2,0,1660068142,"~/index.html"
+'4  2  0  ~/dev.html
+|4,52,2,0,1660067848,"~/dev.html"
+'5  2  0  ~/dev.html
+|4,53,2,0,1660067848,"~/dev.html"
+'6  1  9  ~/index.html
+|4,54,1,9,1660067808,"~/index.html"
+'7  1  9  ~/index.html
+|4,55,1,9,1660067808,"~/index.html"
+'8  1  9  ~/index.html
+|4,56,1,9,1660067808,"~/index.html"
+'9  1  9  ~/index.html
+|4,57,1,9,1660067808,"~/index.html"
 
 # Jumplist (newest first):
+-'  3  0  ~/index.html
+|4,39,3,0,1660068199,"~/index.html"
+-'  2  0  ~/index.html
+|4,39,2,0,1660068183,"~/index.html"
+-'  3  0  ~/dev.html
+|4,39,3,0,1660068174,"~/dev.html"
+-'  3  0  ~/dev.html
+|4,39,3,0,1660068174,"~/dev.html"
+-'  2  0  ~/dev.html
+|4,39,2,0,1660068149,"~/dev.html"
+-'  2  0  ~/dev.html
+|4,39,2,0,1660068149,"~/dev.html"
+-'  2  0  ~/index.html
+|4,39,2,0,1660068142,"~/index.html"
+-'  2  0  ~/index.html
+|4,39,2,0,1660068142,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660068114,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660068114,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660068114,"~/index.html"
+-'  2  0  ~/dev.html
+|4,39,2,0,1660067848,"~/dev.html"
+-'  2  0  ~/dev.html
+|4,39,2,0,1660067848,"~/dev.html"
+-'  2  0  ~/dev.html
+|4,39,2,0,1660067848,"~/dev.html"
+-'  2  0  ~/dev.html
+|4,39,2,0,1660067848,"~/dev.html"
+-'  1  0  ~/dev.html
+|4,39,1,0,1660067836,"~/dev.html"
+-'  1  0  ~/dev.html
+|4,39,1,0,1660067836,"~/dev.html"
+-'  1  0  ~/dev.html
+|4,39,1,0,1660067836,"~/dev.html"
+-'  1  0  ~/dev.html
+|4,39,1,0,1660067836,"~/dev.html"
+-'  1  0  ~/dev.html
+|4,39,1,0,1660067836,"~/dev.html"
+-'  1  0  ~/dev.html
+|4,39,1,0,1660067836,"~/dev.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660067808,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660067808,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660067808,"~/index.html"
+-'  1  9  ~/index.html
+|4,39,1,9,1660067808,"~/index.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
+-'  1  0  ~/.git/dev.html
+|4,39,1,0,1660066599,"~/.git/dev.html"
 -'  1  0  ~/.git/dev.html
 |4,39,1,0,1660066599,"~/.git/dev.html"
 -'  2  0  ~/.git/index.html
 |4,39,2,0,1660066563,"~/.git/index.html"
 -'  2  0  ~/.git/index.html
 |4,39,2,0,1660066563,"~/.git/index.html"
--'  1  0  ~/.git/index.html
-|4,39,1,0,1660066536,"~/.git/index.html"
--'  1  0  ~/.git/index.html
-|4,39,1,0,1660066536,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
+-'  2  0  ~/.git/index.html
+|4,39,2,0,1660066563,"~/.git/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1660068198	0
+	"	3	0
+	^	3	0
+	.	2	4
+	+	1	9
+	+	2	0
+	+	1	18
+	+	2	4
+
+> ~/dev.html
+	*	1660068173	0
+	"	3	0
+	^	3	0
+	.	2	4
+	+	1	16
+	+	2	4
 
 > ~/.git/dev.html
 	*	1660066597	0
